@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "201510200668",
+    "firebase_url": "https://surveyapp-thesmader.firebaseio.com",
+    "project_id": "surveyapp-thesmader",
+    "storage_bucket": "surveyapp-thesmader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201510200668:android:a6a9b49e4b88f183",
+        "android_client_info": {
+          "package_name": "surveyapp.thesmader.com.surveyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201510200668-2f74ucm97jq9m2077dmoueot0nmj8a3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKLih_KyXmonYpRzWwsgvPXDF1mgsYMOw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
